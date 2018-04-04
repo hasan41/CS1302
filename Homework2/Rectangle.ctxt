@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Rectangle
+comment1.params=newx\ newy\ newwidth\ newheight
+comment1.target=Rectangle(int,\ int,\ int,\ int)
+comment2.params=
+comment2.target=int\ getX()
+comment3.params=
+comment3.target=int\ getY()
+comment4.params=
+comment4.target=int\ getWidth()
+comment5.params=
+comment5.target=int\ getHeight()
+comment6.params=
+comment6.target=java.lang.String\ toString()
+comment7.params=new_x\ new_y
+comment7.target=boolean\ contains(int,\ int)
+numComments=8
