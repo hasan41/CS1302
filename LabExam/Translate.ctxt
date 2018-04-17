@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Translate
+comment1.params=x\ y
+comment1.target=void\ move(int,\ int)
+comment2.params=
+comment2.target=double\ size()
+comment3.params=
+comment3.target=double\ area()
+comment4.params=
+comment4.target=void\ printShape()
+numComments=5
