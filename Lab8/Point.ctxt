@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=Point
+comment0.text=\n\ Write\ a\ description\ of\ class\ Point\ here.\n\n\ @author\ (your\ name)\n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=x\ y
+comment1.target=Point(int,\ int)
+comment2.params=
+comment2.target=int\ getX()
+comment3.params=
+comment3.target=int\ getY()
+comment4.params=x\ y
+comment4.target=void\ setLocation(int,\ int)
+comment5.params=
+comment5.target=java.lang.String\ toString()
+comment6.params=dx\ dy
+comment6.target=void\ translate(int,\ int)
+comment7.params=pt
+comment7.target=int\ compareTo(Point)
+numComments=8
