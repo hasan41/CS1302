@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Car
+comment1.params=
+comment1.target=Car()
+comment2.params=x\ y\ color\ bool
+comment2.target=Car(int,\ int,\ java.awt.Color,\ boolean)
+comment3.params=g
+comment3.target=void\ draw(java.awt.Graphics)
+comment4.params=g
+comment4.target=void\ move(java.awt.Graphics)
+numComments=5

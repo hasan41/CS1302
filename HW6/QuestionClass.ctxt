@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=QuestionClass
+comment1.params=set
+comment1.target=int[]\ ModifiedSelectSort(int[])
+comment2.params=array\ index1\ index2
+comment2.target=void\ swap(int[],\ int,\ int)
+comment3.params=a
+comment3.target=void\ dualSelectionSort(int[])
+comment4.params=a
+comment4.target=void\ main(java.lang.String[])
+numComments=5
